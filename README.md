@@ -6,4 +6,4 @@
 # GLOBOX- Report.pdf: Overall Data Analysis report produced as a result of detailed analysis of data based on A/B testing conducted. This includes the link for Tableau dashboards as well.
 # GloBox.pdf: Summary presentation of Data analysis based on A/B Testing.
 # project-1.xlsx: Details of calculation of A/B Testing conducted. 
-# SQL-Extract-27-06-2023.csv: raw data which was extracted usinf SQL script for execution of this data analysis project.
+# SQL-Extract-27-06-2023.csv: raw data which was extracted using SQL script for execution of this data analysis project.
